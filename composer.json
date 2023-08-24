@@ -1,5 +1,15 @@
 {
   "name": "devamitbera/magento2-replace-graphql-without-pay",
+  "description": "Magento2 remove all graphql with out paypal",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Amit Bera",
+      "email": "dev.amitbera@gmail.com",
+      "homepage": "https://www.amitbera.com"
+    }
+  ],
   "require": {
     "magento/product-community-edition": "2.4.*"
   },
